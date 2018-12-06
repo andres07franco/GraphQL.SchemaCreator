@@ -47,7 +47,7 @@ namespace GraphQL.SchemaCreator
             if (mutationType != null)
                 rootTypeDefinition += ResolveType(mutationType);
 
-            return "scalar Date \n" + rootTypeDefinition;
+            return "scalar DateTime \n" + rootTypeDefinition;
         }
 
         /// <summary>
@@ -196,7 +196,7 @@ namespace GraphQL.SchemaCreator
             }
             else if (type == typeof(DateTime))
             {
-                typeGraph = "Date";
+                typeGraph = "DateTime";
             }
             return typeGraph;
         }
