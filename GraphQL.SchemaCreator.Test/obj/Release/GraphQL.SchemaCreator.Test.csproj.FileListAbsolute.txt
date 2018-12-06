@@ -1,0 +1,16 @@
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\bin\Release\GraphQL.SchemaCreator.Test.dll
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\bin\Release\GraphQL.SchemaCreator.Test.pdb
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\bin\Release\GraphQL.SchemaCreator.dll
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\bin\Release\GraphQL.SchemaCreator.pdb
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\obj\Release\GraphQL.SchemaCreator.Test.csprojAssemblyReference.cache
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\obj\Release\GraphQL.SchemaCreator.Test.csproj.CoreCompileInputs.cache
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\obj\Release\GraphQL.SchemaCreator.Test.csproj.CopyComplete
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\obj\Release\GraphQL.SchemaCreator.Test.dll
+C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator.Test\obj\Release\GraphQL.SchemaCreator.Test.pdb
