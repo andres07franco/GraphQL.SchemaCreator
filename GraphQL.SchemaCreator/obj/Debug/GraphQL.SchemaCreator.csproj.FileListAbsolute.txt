@@ -1,6 +1,0 @@
-C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator\bin\Debug\GraphQL.SchemaCreator.dll
-C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator\bin\Debug\GraphQL.SchemaCreator.pdb
-C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator\obj\Debug\GraphQL.SchemaCreator.csprojAssemblyReference.cache
-C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator\obj\Debug\GraphQL.SchemaCreator.csproj.CoreCompileInputs.cache
-C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator\obj\Debug\GraphQL.SchemaCreator.dll
-C:\TFS1\Sispuertos\1Dev\Common\Palermo.Web.API\GraphQL.SchemaCreator\obj\Debug\GraphQL.SchemaCreator.pdb
