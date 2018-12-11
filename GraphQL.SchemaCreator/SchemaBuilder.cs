@@ -182,7 +182,7 @@ namespace GraphQL.SchemaCreator
             {
                 typeGraph = "Int";
             }
-            else if (type == typeof(Decimal) || type == typeof(float) || type == typeof(Nullable<float>) || type == typeof(Nullable<Decimal>))
+            else if (type == typeof(Double) || type == typeof(Decimal) || type == typeof(float) || type == typeof(Nullable<float>) || type == typeof(Nullable<Decimal>) || type == typeof(Nullable<Double>))
             {
                 typeGraph = "Float";
             }
